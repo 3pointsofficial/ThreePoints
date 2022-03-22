@@ -1,2 +1,0 @@
-# ThreePoints
-Code of ThreePoints
